@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Senior Software Engineer at Pariveda Solutions and make random projects for fun. 
 
+I am a Senior Software Engineer at Pariveda Solutions and make random projects for fun.
 
 ### Work with daily
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,aws,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,aws,py,cs,dotnet,git)](https://skillicons.dev)
 
 ### Work with on occassion
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,postgres,react,androidstudio)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,postgres,react,androidstudio,bash)](https://skillicons.dev)
 
 ### Current Projects
 
