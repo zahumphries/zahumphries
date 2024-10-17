@@ -27,4 +27,4 @@ I am a Senior Software Engineer at Pariveda Solutions and make random projects f
 
 ### Current Projects
 
-[League Report Card](www.league-report-card.com)
+[League Report Card](https://www.league-report-card.com)
