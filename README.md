@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Senior Software Engineer at Pariveda Solutions and make random projects for fun.
+I am a Software Engineer at VIZIO and make random projects for fun.
 
 ### Work with daily
 
